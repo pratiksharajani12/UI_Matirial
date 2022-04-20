@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dell/AndroidStudioProjects/UI_Matrix/app/src/main/res/drawable/ripaleffect.xml" value="0.145" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/UI_Matrix/app/src/main/res/layout/activity_blurappbar_profile.xml" value="0.12" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/UI_Matrix/app/src/main/res/layout/activity_card_header_profile.xml" value="0.22" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/UI_Matrix/app/src/main/res/layout/activity_cardheader_img.xml" value="0.17" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/UI_Matrix/app/src/main/res/layout/activity_cardovrlap_profile.xml" value="0.22" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/UI_Matrix/app/src/main/res/layout/activity_code_verificatiion.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/UI_Matrix/app/src/main/res/layout/activity_drak_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/UI_Matrix/app/src/main/res/layout/activity_fabmenu_profile.xml" value="0.22" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/UI_Matrix/app/src/main/res/layout/activity_form_final.xml" value="0.22" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/UI_Matrix/app/src/main/res/layout/activity_form_select.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/UI_Matrix/app/src/main/res/layout/activity_image_verification.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/UI_Matrix/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/UI_Matrix/app/src/main/res/layout/activity_phone_verification.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/UI_Matrix/app/src/main/res/layout/activity_polygon_profile.xml" value="0.18" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/UI_Matrix/app/src/main/res/layout/activity_profile_selection.xml" value="0.22" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/UI_Matrix/app/src/main/res/layout/activity_red_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/UI_Matrix/app/src/main/res/layout/activity_selection_ui.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/UI_Matrix/app/src/main/res/layout/activity_verification_selection.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/UI_Matrix/app/src/main/res/layout/activity_wallet_profile.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
